@@ -35,10 +35,10 @@ mkdir $HOME/H4leptons
 cd $HOME/H4leptons
 ```
 
-2. Clone the [gitlab repository](https://gitlab-p4n.aip.de/compute4punch/container-stacks/-/tree/main/h4leptons):
+2. Clone the [gitlab repository](https://gitlab-p4n.aip.de/compute4punch/tutorials/c4p_tutorial_h4leptons_analysis):
 
 ```
-git clone https://gitlab-p4n.aip.de/compute4punch/container-stacks.git
+git clone https://gitlab-p4n.aip.de/compute4punch/tutorials/c4p_tutorial_h4leptons_analysis.git
 ```
 
 3. Dowload the indexfiles corresponding to the data sets and Monte Carlo for 2011 and 2012: 
@@ -106,10 +106,10 @@ mkdir $HOME/H4leptons
 cd $HOME/H4leptons
 ```
 
-2. Clone the [gitlab repository](https://gitlab-p4n.aip.de/compute4punch/container-stacks/-/tree/main/h4leptons):
+2. Clone the [gitlab repository] (https://gitlab-p4n.aip.de/compute4punch/tutorials/c4p_tutorial_h4leptons_analysis):
 
 ```
-git clone https://gitlab-p4n.aip.de/compute4punch/container-stacks.git
+git clone https://gitlab-p4n.aip.de/compute4punch/tutorials/c4p_tutorial_h4leptons_analysis.git
 ```
 
 3. Dowload the indexfiles corresponding to the data sets and Monte Carlo for 2011 and 2012:
@@ -284,10 +284,10 @@ mkdir $HOME/H4leptons
 cd $HOME/H4leptons
 ```
 
-2. Clone the [gitlab repository](https://gitlab-p4n.aip.de/compute4punch/container-stacks/-/tree/main/h4leptons):
+2. Clone the [gitlab repository] (https://gitlab-p4n.aip.de/compute4punch/tutorials/c4p_tutorial_h4leptons_analysis):
 
 ```
-git clone https://gitlab-p4n.aip.de/compute4punch/container-stacks.git
+git clone https://gitlab-p4n.aip.de/compute4punch/tutorials/c4p_tutorial_h4leptons_analysis.git
 ```
 
 3. Download the indexfiles corresponding to the Higgs and ZZ Monte Carlo samples for 2011 and 2012:
